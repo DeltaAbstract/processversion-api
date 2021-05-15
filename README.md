@@ -4,7 +4,7 @@
 
 ## Base URL: https://processversion.herokuapp.com/
 
-**ALL API ENDPOINTS REQUIRE A KEY. There are 2 ways of doing so**
+**ALL API ENDPOINTS REQUIRE A KEY. There are _2_ ways of doing so**
 
 1. Authorization header
 2. Query (?apikey=key)
