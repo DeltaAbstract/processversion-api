@@ -15,8 +15,8 @@
 
 | Name     | Type     | Required |
 | -------- | -------- | -------- |
-| `user`   | `string` | `Yes`    |
-| `apikey` | `string` | `No`     |
+| `user`   | `String` | `Yes`    |
+| `apikey` | `String` | `No`     |
 
 #### Example response
 
